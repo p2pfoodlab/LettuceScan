@@ -1,0 +1,10 @@
+{"tempdir"      : "/home/ubuntu/html/lettucescan",
+ "imdir"        : "/home/ubuntu/LettuceScan/static/img",
+ "svgdir"       : "/home/ubuntu/pics/",
+ "cnc_port"     : "/dev/ttyUSB0",
+ "bracket_port" : "/dev/ttyACM0",
+ "lims"         :  {"x": [0,780], "y": [0,780], "z": [0, 150], "pan": [-360, 360], "tilt": [-90,90]},
+ "scale"        :  {"x": 10, "y": 10, "z": 10, "pan": 0.556, "tilt": 0.556},
+ "stepper"      : {"mode" : {"pan": "DOUBLE", "tilt": "DOUBLE"},
+                   "speed": {"pan": 10, "tilt": 10}} 
+}

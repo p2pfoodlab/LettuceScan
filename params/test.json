@@ -1,0 +1,7 @@
+{"tempdir"      : "/home/ubuntu/html/lettucescan",
+ "imdir"        : "/home/ubuntu/html/img",
+ "svgdir"       : "/home/ubuntu/pics/",
+ "cnc_port"     : "/dev/ttyUSB0",
+ "lims"         :  {"x": [0,780],
+		    "y": [0,780]}
+}
