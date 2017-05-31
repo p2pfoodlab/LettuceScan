@@ -1,4 +1,4 @@
 #Lettuce Scan
 
-- Test server and feather code
-- pcd processing tools
+- Test code for server and feather
+- pcd processing tools (pcl and python)
